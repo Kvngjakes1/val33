@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Messages array
     const messages = [
-        "To My  Special Someone Jumoke, I don’t know if you realize just how amazing you are, but I see it in every little thing you do. Your kindness, your laughter, and just the way you light up a room—it all makes the world a little better. I don’t need Valentine’s Day as an excuse to appreciate you, but today, I just want to say… you’re special to me. More than you know. Happy Valentine’s Day! Jakes💖",
+        "To My  Special Someone Gift, I don’t know if you realize just how amazing you are, but I see it in every little thing you do. Your kindness, your laughter, and just the way you light up a room—it all makes the world a little better. I don’t need Valentine’s Day as an excuse to appreciate you, but today, I just want to say… you’re special to me. More than you know. Happy Valentine’s Day! Jakes💖",
        
     ];
 
